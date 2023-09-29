@@ -56,6 +56,6 @@ $ yarn start
 ```
 
 Once your server has started, go to this url `http://localhost:3000/` to see the portfolio locally.
-The page will reload if you make edits..
+The page will reload if you make edits.
 
 ---
