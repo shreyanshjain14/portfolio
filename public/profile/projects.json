@@ -1,0 +1,49 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/blackopal.png",
+            "title": "JustHomz (BlackOpal Services)",
+            "bodyText": "- Built and maintained 100% of backend REST services using Nestjs. \n - Worked in an agile team with 2 designers and 6 other developers to create a rapid prototype. \n - Done POC on Agora Apis for In-app audio and video calling. \n - Built in-app call, and video call feature with plan and subscription APIs. \n - Built DB schema and API specs from scratch.",
+            "links": [
+            
+            ],
+            "tags" : [
+                "Nestjs",
+                "Postgresql",
+                "Typescript",
+                "socket.io",
+                "Objectionjs",
+                "Redis",
+                "Elastic Search",
+                "Agora"
+                
+            ]
+        },
+        {
+            "image" : "images/projects/vegease.png",
+            "title": "Vegease",
+            "bodyText": "- Built a marketing scheme feature for redeeming coins on the basis of user order value. \n - Built combo product feature, selling multiple products as a combo at a low price. \n -Built Combo Offer Feature",
+            "links": [
+            ],
+            "tags" : [
+                "Nodejs",
+                "HapiJs",
+                "MongoDb"
+                
+            ]
+        },
+        {
+            "image" : "images/projects/jamboree-logo.png",
+            "title": "JAMS",
+            "bodyText": "- System to guide students to get the best career counseling for colleges abroad. \n - Developed a mentor-student feature for guiding the students, like which course they have to choose.",
+            "links": [
+              
+            ],
+            "tags" : [
+                "Nodejs",
+                "Expressjs",
+                "MySql"
+            ]
+        }
+    ]
+}

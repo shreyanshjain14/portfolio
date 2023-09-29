@@ -1,0 +1,67 @@
+{
+    "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools and platforms I have worked with:",
+    "skills": [{
+     
+            "title": "Languages & Databases",
+            "items" : [
+                {
+                    "icon": "images/skills/typescript.png",
+                    "title": "Typescript"
+                },
+                {
+                    "icon": "images/skills/js.png",
+                    "title": "JavaScript"
+                },
+                {
+                    "icon": "images/skills/mongo-db.png",
+                    "title": "MongoDb"
+                },
+                {
+                    "icon": "images/skills/mysql.png",
+                    "title": "MySQL"
+                },
+                {
+                    "icon": "images/skills/postgres.png",
+                    "title": "Postgresql"
+                },
+                {
+                    "icon": "images/skills/redis.png",
+                    "title": "Redis"
+                }
+        ]},
+        {
+            "title": "Frameworks & Technologies",
+            "items" : [
+                {
+                    "icon": "images/skills/nestjs.png",
+                    "title": "Nestjs"
+                },
+                {
+                    "icon": "images/skills/nodejs.png",
+                    "title": "Nodejs"
+                },
+                {
+                    "icon": "images/skills/react.png",
+                    "title": "React"
+                },
+                {
+                    "icon": "images/skills/angular.png",
+                    "title": "Angular"
+                }
+               
+            ]
+        },
+        {
+            "title" : "Tools & Platforms",
+            "items": [
+                {
+                    "icon": "images/skills/git.png",
+                    "title": "Git"
+                },
+                {
+                    "icon": "images/skills/docker.png",
+                    "title": "Docker"
+                }
+            ]
+    }
+]}
