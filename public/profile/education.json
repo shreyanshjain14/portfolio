@@ -1,0 +1,19 @@
+{
+    "education":[
+        {
+            "title": "Jun 2016 - Aug 2020",
+            "cardTitle": "B.Tech, Computer Science",
+            "cardSubtitle":"Amity University Gwalior",
+            "cardDetailedText": "CGPA - 7.8",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "Apr 2016",
+            "cardTitle": " Senior Secondary School",
+            "cardSubtitle":"S.S Memorial Senior Secondary School",
+            "cardDetailedText": "Marks - 78%"
+        }
+    ]
+}

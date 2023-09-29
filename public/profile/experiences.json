@@ -1,0 +1,36 @@
+{
+    "experiences": [
+        {
+            "title": " Senior Software Engineer",
+            "subtitle": "Thinkbridge Software",
+            "workType": "Full-time",
+            "workDescription": [
+                "Working with client to guide them and build the product efficiently.",
+                "Working on building different features like localization with suitable coding techniques."
+                
+            ],
+            "dateText": "04/2023 – Present"
+        },
+        {
+            "title": "Software Engineer",
+            "subtitle": "Squareboat Solutions pvt Ltd",
+            "workType": "Full-time",
+            "workDescription": [
+                "Developed, tested, and debugged 10+ software applications based on user stories, requirements & design specifications. Got my hands on various Technologies like NestJs, NodeJs, ObjectionJs, Postgres, and Redis.",
+"Reviewed project specifications and designed technology solutions that met or exceeded performance expectations.",
+"Worked wiTh software development and testing team members to design and develop robust solutions to meet client requirements for functionality, scalability, and performance."
+            ],
+            "dateText": "07/2021 – 04/2023"
+        },
+        {
+            "title": "Associate Software Engineer",
+            "subtitle": "L&T Technology Services",
+            "workType": "Internship",
+            "workDescription": [
+                "Worked on Java And Springboot Framework"
+                
+            ],
+            "dateText": "02/2021 – 07/2021"
+        }
+    ]
+}

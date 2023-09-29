@@ -1,0 +1,15 @@
+{
+  "short_name": "Shreyansh Jain",
+  "name": "Shreyansh Jain - Portfolio",
+  "icons": [
+    {
+      "src": "images/logo.jpeg",
+      "type": "image/jpeg",
+      "sizes": "425x225"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
