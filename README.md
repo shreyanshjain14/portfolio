@@ -59,9 +59,3 @@ Once your server has started, go to this url `http://localhost:3000/` to see the
 The page will reload if you make edits.
 
 ---
-
-## Deployment 📦
-
-Once you finish your setup. You need to put your website online!
-
-I highly recommend to use [Vercel](https://vercel.app) because it is super easy.
